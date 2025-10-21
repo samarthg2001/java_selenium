@@ -1,0 +1,45 @@
+./metadata
+./setting
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/wrapper/maven-wrapper.jar # Maven Wrapper JAR can be ignored if not needed for consistent builds
+
+# Eclipse
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+.nb-gradle/
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
